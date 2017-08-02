@@ -1,0 +1,825 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DeMomentSomTres Restaurant 2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/demomentsomtres-"
+"restaurant\n"
+"POT-Creation-Date: 2016-04-19 17:08:08+00:00\n"
+"PO-Revision-Date: Tue Apr 19 2016 20:02:08 GMT+0200 (CEST)\n"
+"Last-Translator: admin <dms3@demomentsomtres.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: es_ES"
+
+#. Plugin Name of the plugin/theme
+msgid "DeMomentSomTres Restaurant"
+msgstr "DeMomentSomTres Restaurante"
+
+#. URI of the plugin
+msgid ""
+"http://www.demomentsomtres.com/en/wordpress-plugins/demomentsomtres-"
+"restaurant"
+msgstr ""
+"http://www.demomentsomtres.com/en/wordpress-plugins/demomentsomtres-"
+"restaurant"
+
+#. Description of the plugin/theme
+msgid ""
+"DeMomentSomTres Restaurants creates a custom type to represent restaurant "
+"lists and menus and show them using shortcodes and menu entries."
+msgstr ""
+"DeMomentSomTres Restaurante crea un tipo personalizado para representar "
+"menús y cartas de restaurantes."
+
+#. Author of the plugin/theme
+msgid "DeMomentSomTres"
+msgstr "DeMomentSomTres Márqueting por Internet"
+
+#. Author URI of the plugin
+msgid "http://www.DeMomentSomTres.com"
+msgstr "http://www.DeMomentSomTres.com"
+
+#: ../demomentsomtres-restaurant.php:87
+msgid "Settings"
+msgstr "Configuración"
+
+#: ../demomentsomtres-restaurant.php:87
+msgid "DeMomentSomTres Restaurant Settings"
+msgstr "Configuración de DeMomentSomTres Restaurante"
+
+#: ../demomentsomtres-restaurant.php:88
+msgid "More information"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:89
+msgid "Main settings"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:90
+msgid "Menu Life"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:90
+msgid "Days that a menu will be alive before getting expired, by default"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:91
+msgid "Number of templates"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:91
+msgid "Number of templates that you want to mantain."
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:91
+msgid "WARNING:"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:91
+msgid "If you decrease this number, templates can be lost."
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:92 ../demomentsomtres-restaurant.php:107
+msgid "Save"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:93
+msgid "Templates"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:98
+msgid "Instructions"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:99
+msgid "Add a new template"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:99
+msgid "Go to main settings and increase the number of templates"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:100
+msgid "Delete last template"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:100
+msgid "Go to main settings and decrease the number of templates"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:101
+msgid "Delete a template not at bottom"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:101
+msgid ""
+"Not implemented. You can copy content and title of previous templates and "
+"delete the last one."
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:103
+msgid "Template #"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:104
+msgid "Title"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:105
+msgid "Content"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:108
+msgid "Upgrade"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:109
+msgid "Upgrade procedure"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:109
+msgid ""
+"If you were using a version of this plugin prior to 2.0 you should perform "
+"this upgrade."
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:109
+msgid "It will update database fields in order to make them compatible with 2.0."
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:109
+msgid "Don't forget to previously backup your database."
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:110
+msgid "Start Upgrade"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:110
+msgid "Upgrade in progress"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:110
+msgid "Upgrade successfull"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:110
+msgid "Upgrade failed"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:111
+msgid "Menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:111
+msgid "Menu specific data"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:112
+msgid "Expiry date"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:112
+msgid "Dish list will be valid until the end of the selected day"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgctxt "taxonomy general name"
+msgid "Menu Types"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgctxt "taxonomy singular name"
+msgid "Menu Type"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgid "Search Type"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgid "All Types"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgid "Parent Type"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgid "Parent Type:"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgid "Edit Type"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgid "Update Type"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgid "Add New Type"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:133
+msgid "New Type Name"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgctxt "Post Type General Name"
+msgid "Menus"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgctxt "Post Type Singular Name"
+msgid "Menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135 ../demomentsomtres-restaurant.php:135
+msgid "Restaurant"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Restaurant menus"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Parent menu:"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "All menus"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Add new menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Add New"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "New Menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Edit Menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Update Menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "View Menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Search Menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Not found"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Featured Image"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Set featured image"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Remove featured image"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Use as featured image"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Insert into Menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Uploaded to this menu"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Menus list"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Menus list navigation"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:135
+msgid "Filter menus list"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:150
+msgid "Add template"
+msgstr ""
+
+#: ../demomentsomtres-restaurant.php:256
+msgid "Ecological"
+msgstr "Ecológico"
+
+#: ../demomentsomtres-restaurant.php:261
+msgid "Vegetarian"
+msgstr "Vegetariano"
+
+#: ../demomentsomtres-restaurant.php:270
+msgid "Gluten Free"
+msgstr "Sin gluten"
+
+#: ../demomentsomtres-restaurant.php:306
+msgid "Expired since"
+msgstr "No válido desde "
+
+#. Name of the plugin
+msgid "TGM Plugin Activation"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin installation and activation for WordPress themes."
+msgstr ""
+
+#. Author of the plugin
+msgid "Thomas Griffin, Gary Jones, Juliette Reinders Folmer"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://tgmpluginactivation.com"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:362
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:399 ../lib/class-tgm-plugin-activation.
+#: php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:400 ../lib/class-tgm-plugin-activation.
+#: php:2832
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:828 ../lib/class-tgm-plugin-activation.
+#: php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:935 ../lib/class-tgm-plugin-activation.
+#: php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1116 ../lib/class-tgm-plugin-activation.
+#: php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../lib/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3370 ../lib/class-tgm-plugin-activation.
+#: php:3376
+msgid "Show Details"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3370 ../lib/class-tgm-plugin-activation.
+#: php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""

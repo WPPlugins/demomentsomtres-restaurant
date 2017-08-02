@@ -1,0 +1,11 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">dish-list</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">dish-list-type</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="copy">demomentsomtres-restaurant-expiry-date</custom-field>
+	</custom-fields>
+</wpml-config>
